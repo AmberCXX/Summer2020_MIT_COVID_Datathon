@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Illinois,IL,,13.0,3.0,3.0,0.0,0.0,2020-03-25,2020-13
+Illinois,IL,,239.0,25.0,52.0,0.0,1.0,2020-04-01,2020-14
+Illinois,IL,,,79.0,112.0,,2.0,2020-04-08,2020-15
+Illinois,IL,,,124.0,146.0,0.0,8.0,2020-04-16,2020-16
+Illinois,IL,,,139.0,148.0,0.0,10.0,2020-04-22,2020-17
+Illinois,IL,,,149.0,155.0,0.0,10.0,2020-04-29,2020-18
+Illinois,IL,,600.0,157.0,176.0,0.0,12.0,2020-05-06,2020-19

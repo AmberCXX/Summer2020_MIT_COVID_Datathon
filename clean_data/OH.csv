@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Ohio,OH,,17.0,,0.0,0.0,0.0,2020-03-26,2020-13
+Ohio,OH,,25.0,,0.0,0.0,0.0,2020-04-01,2020-14
+Ohio,OH,,84.0,53.0,19.0,1.0,0.0,2020-04-08,2020-15
+Ohio,OH,,1157.0,159.0,273.0,1.0,3.0,2020-04-15,2020-16
+Ohio,OH,,5196.0,331.0,3792.0,1.0,14.0,2020-04-22,2020-17
+Ohio,OH,,5676.0,419.0,3890.0,2.0,29.0,2020-04-29,2020-18
+Ohio,OH,,6922.0,483.0,4312.0,2.0,42.0,2020-05-06,2020-19

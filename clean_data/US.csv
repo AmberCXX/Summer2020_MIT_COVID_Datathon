@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Federal,US,,,8.0,10.0,0.0,0.0,2020-03-26,2020-13
+Federal,US,,,37.0,60.0,0.0,3.0,2020-04-01,2020-14
+Federal,US,,,92.0,275.0,0.0,8.0,2020-04-08,2020-15
+Federal,US,,,280.0,468.0,0.0,16.0,2020-04-15,2020-16
+Federal,US,,,342.0,590.0,0.0,24.0,2020-04-22,2020-17
+Federal,US,,,475.0,1979.0,0.0,31.0,2020-04-29,2020-18
+Federal,US,,,514.0,2701.0,0.0,42.0,2020-05-06,2020-19

@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+New Jersey,NJ,,,4.0,0.0,0.0,0.0,2020-03-26,2020-13
+New Jersey,NJ,,8.0,26.0,0.0,0.0,0.0,2020-04-01,2020-14
+New Jersey,NJ,,25.0,110.0,18.0,,,2020-04-08,2020-15
+New Jersey,NJ,,,266.0,50.0,1.0,5.0,2020-04-15,2020-16
+New Jersey,NJ,,128.0,427.0,92.0,2.0,16.0,2020-04-22,2020-17
+New Jersey,NJ,,196.0,518.0,153.0,2.0,29.0,2020-04-29,2020-18
+New Jersey,NJ,,276.0,575.0,215.0,2.0,38.0,2020-05-06,2020-19

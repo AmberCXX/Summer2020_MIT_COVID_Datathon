@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Nebraska,NE,,,,,0.0,0.0,2020-03-26,2020-13
+Nebraska,NE,,,,,,,2020-04-01,2020-14
+Nebraska,NE,,,1.0,0.0,0.0,0.0,2020-04-09,2020-15
+Nebraska,NE,,,1.0,0.0,0.0,0.0,2020-04-16,2020-16
+Nebraska,NE,,,1.0,0.0,0.0,0.0,2020-04-20,2020-17
+Nebraska,NE,,,3.0,0.0,0.0,0.0,2020-04-28,2020-18
+Nebraska,NE,,,5.0,0.0,,0.0,2020-05-06,2020-19

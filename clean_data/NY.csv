@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+New York,NY,,28.0,40.0,3.0,0.0,0.0,2020-03-26,2020-13
+New York,NY,,74.0,147.0,20.0,1.0,1.0,2020-04-01,2020-14
+New York,NY,,176.0,381.0,62.0,1.0,2.0,2020-04-08,2020-15
+New York,NY,,,664.0,160.0,1.0,5.0,2020-04-15,2020-16
+New York,NY,,391.0,844.0,239.0,2.0,6.0,2020-04-22,2020-17
+New York,NY,,553.0,1045.0,370.0,2.0,10.0,2020-04-29,2020-18
+New York,NY,,619.0,1143.0,415.0,4.0,15.0,2020-05-06,2020-19

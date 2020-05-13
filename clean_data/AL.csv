@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Alabama,AL,,,1.0,0.0,0.0,0.0,2020-03-26,2020-13
+Alabama,AL,,17.0,2.0,0.0,0.0,0.0,2020-03-31,2020-14
+Alabama,AL,,30.0,,0.0,0.0,0.0,2020-04-06,2020-15
+Alabama,AL,,50.0,6.0,0.0,0.0,0.0,2020-04-13,2020-16
+Alabama,AL,,63.0,8.0,4.0,0.0,1.0,2020-04-21,2020-17
+Alabama,AL,,78.0,13.0,4.0,0.0,1.0,2020-04-28,2020-18
+Alabama,AL,,102.0,17.0,8.0,0.0,1.0,2020-05-06,2020-19

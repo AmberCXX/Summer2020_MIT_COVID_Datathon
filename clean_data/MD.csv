@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Maryland,MD,,,,0.0,0.0,0.0,2020-03-26,2020-13
+Maryland,MD,,,14.0,3.0,0.0,0.0,2020-04-03,2020-14
+Maryland,MD,,,22.0,10.0,0.0,0.0,2020-04-09,2020-15
+Maryland,MD,,,47.0,18.0,0.0,1.0,2020-04-13,2020-16
+Maryland,MD,,,127.0,45.0,0.0,1.0,2020-04-22,2020-17
+Maryland,MD,,,174.0,52.0,0.0,2.0,2020-04-29,2020-18
+Maryland,MD,,,183.0,61.0,0.0,2.0,2020-05-04,2020-19

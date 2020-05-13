@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Arizona,AZ,,15.0,,0.0,0.0,0.0,2020-03-26,2020-13
+Arizona,AZ,,34.0,,0.0,0.0,0.0,2020-04-01,2020-14
+Arizona,AZ,,68.0,,2.0,,,2020-04-09,2020-15
+Arizona,AZ,,91.0,,17.0,,,2020-04-15,2020-16
+Arizona,AZ,,172.0,,35.0,,,2020-04-22,2020-17
+Arizona,AZ,,210.0,,50.0,,2.0,2020-04-29,2020-18
+Arizona,AZ,,277.0,52.0,69.0,0.0,5.0,2020-05-06,2020-19

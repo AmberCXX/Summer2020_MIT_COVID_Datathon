@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Florida,FL,,,7.0,0.0,0.0,0.0,2020-03-27,2020-13
+Florida,FL,,,12.0,0.0,0.0,0.0,2020-04-01,2020-14
+Florida,FL,,,40.0,5.0,0.0,0.0,2020-04-08,2020-15
+Florida,FL,,292.0,58.0,42.0,,2.0,2020-04-15,2020-16
+Florida,FL,,387.0,102.0,136.0,0.0,4.0,2020-04-22,2020-17
+Florida,FL,,447.0,143.0,202.0,0.0,5.0,2020-04-29,2020-18
+Florida,FL,,805.0,180.0,393.0,0.0,7.0,2020-05-06,2020-19

@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Vermont,VT,,,,0.0,0.0,0.0,2020-03-26,2020-13
+Vermont,VT,,2.0,2.0,0.0,0.0,0.0,2020-04-02,2020-14
+Vermont,VT,,200.0,4.0,1.0,0.0,0.0,2020-04-09,2020-15
+Vermont,VT,,206.0,18.0,33.0,0.0,0.0,2020-04-14,2020-16
+Vermont,VT,,221.0,18.0,38.0,0.0,0.0,2020-04-22,2020-17
+Vermont,VT,,378.0,18.0,38.0,0.0,0.0,2020-04-29,2020-18
+Vermont,VT,154.0,384.0,19.0,45.0,0.0,0.0,2020-05-06,2020-19

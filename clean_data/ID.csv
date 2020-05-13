@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Idaho,ID,2.0,10.0,0.0,0.0,0.0,0.0,2020-03-26,2020-13
+Idaho,ID,10.0,14.0,0.0,0.0,0.0,0.0,2020-04-01,2020-14
+Idaho,ID,24.0,21.0,2.0,0.0,0.0,0.0,2020-04-08,2020-15
+Idaho,ID,41.0,24.0,2.0,0.0,0.0,0.0,2020-04-15,2020-16
+Idaho,ID,51.0,27.0,3.0,0.0,0.0,0.0,2020-04-21,2020-17
+Idaho,ID,62.0,34.0,4.0,0.0,0.0,0.0,2020-04-29,2020-18
+Idaho,ID,68.0,47.0,5.0,0.0,0.0,0.0,2020-05-05,2020-19

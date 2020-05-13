@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Iowa,IA,,,0.0,0.0,0.0,0.0,2020-03-26,2020-13
+Iowa,IA,,15.0,0.0,0.0,0.0,0.0,2020-04-01,2020-14
+Iowa,IA,,23.0,0.0,0.0,0.0,0.0,2020-04-08,2020-15
+Iowa,IA,,59.0,1.0,0.0,0.0,0.0,2020-04-15,2020-16
+Iowa,IA,,182.0,3.0,12.0,0.0,0.0,2020-04-22,2020-17
+Iowa,IA,,277.0,5.0,15.0,0.0,0.0,2020-04-29,2020-18
+Iowa,IA,,433.0,11.0,21.0,0.0,0.0,2020-05-06,2020-19

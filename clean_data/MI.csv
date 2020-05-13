@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Michigan,MI,,,,24.0,0.0,0.0,2020-03-26,2020-13
+Michigan,MI,,,25.0,122.0,1.0,1.0,2020-04-01,2020-14
+Michigan,MI,,460.0,137.0,305.0,2.0,2.0,2020-04-08,2020-15
+Michigan,MI,,748.0,181.0,481.0,2.0,13.0,2020-04-15,2020-16
+Michigan,MI,,1089.0,230.0,717.0,2.0,25.0,2020-04-22,2020-17
+Michigan,MI,,3117.0,268.0,1412.0,2.0,41.0,2020-04-29,2020-18
+Michigan,MI,,8113.0,293.0,2073.0,2.0,47.0,2020-05-06,2020-19

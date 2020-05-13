@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+West Virginia,WV,,,0.0,0.0,0.0,0.0,2020-03-26,2020-13
+West Virginia,WV,,,0.0,0.0,0.0,0.0,2020-04-01,2020-14
+West Virginia,WV,,,0.0,0.0,0.0,0.0,2020-04-08,2020-15
+West Virginia,WV,,,0.0,0.0,0.0,0.0,2020-04-15,2020-16
+West Virginia,WV,,,,0.0,0.0,0.0,2020-04-22,2020-17
+West Virginia,WV,,30.0,1.0,0.0,0.0,0.0,2020-04-29,2020-18
+West Virginia,WV,,34.0,1.0,0.0,0.0,0.0,2020-05-06,2020-19

@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Wisconsin,WI,,,5.0,0.0,0.0,0.0,2020-03-26,2020-13
+Wisconsin,WI,,,9.0,0.0,0.0,0.0,2020-04-01,2020-14
+Wisconsin,WI,,91.0,11.0,4.0,0.0,0.0,2020-04-08,2020-15
+Wisconsin,WI,,96.0,14.0,10.0,0.0,0.0,2020-04-15,2020-16
+Wisconsin,WI,,117.0,16.0,13.0,0.0,0.0,2020-04-22,2020-17
+Wisconsin,WI,,137.0,18.0,18.0,0.0,0.0,2020-04-29,2020-18
+Wisconsin,WI,,155.0,23.0,20.0,0.0,0.0,2020-05-06,2020-19

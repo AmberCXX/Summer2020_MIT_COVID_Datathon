@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Arkansas,AR,0.0,0.0,0.0,0.0,0.0,0.0,2020-03-26,2020-13
+Arkansas,AR,,1.0,1.0,0.0,0.0,0.0,2020-04-01,2020-14
+Arkansas,AR,,,7.0,0.0,0.0,0.0,2020-04-07,2020-15
+Arkansas,AR,,,35.0,61.0,0.0,0.0,2020-04-14,2020-16
+Arkansas,AR,,1124.0,25.0,731.0,0.0,0.0,2020-04-21,2020-17
+Arkansas,AR,647.0,1855.0,95.0,923.0,0.0,0.0,2020-04-28,2020-18
+Arkansas,AR,,,127.0,944.0,0.0,5.0,2020-05-07,2020-19

@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Connecticut,CT,,,,,0.0,0.0,2020-03-27,2020-13
+Connecticut,CT,,37.0,3.0,2.0,0.0,0.0,2020-04-01,2020-14
+Connecticut,CT,,124.0,52.0,46.0,0.0,0.0,2020-04-07,2020-15
+Connecticut,CT,,,139.0,199.0,0.0,1.0,2020-04-15,2020-16
+Connecticut,CT,,,244.0,321.0,0.0,1.0,2020-04-22,2020-17
+Connecticut,CT,,,326.0,417.0,,3.0,2020-04-29,2020-18
+Connecticut,CT,,,358.0,478.0,0.0,6.0,2020-05-06,2020-19

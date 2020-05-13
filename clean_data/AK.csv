@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Alaska,AK,,4.0,0.0,0.0,0.0,0.0,2020-03-26,2020-13
+Alaska,AK,,10.0,0.0,0.0,0.0,0.0,2020-04-01,2020-14
+Alaska,AK,,15.0,,0.0,,0.0,2020-04-08,2020-15
+Alaska,AK,,32.0,7.0,0.0,0.0,0.0,2020-04-15,2020-16
+Alaska,AK,,57.0,8.0,0.0,0.0,0.0,2020-04-22,2020-17
+Alaska,AK,,211.0,,1.0,,,2020-04-29,2020-18
+Alaska,AK,,235.0,8.0,1.0,0.0,0.0,2020-05-06,2020-19

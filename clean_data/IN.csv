@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Indiana,IN,,,,0.0,0.0,0.0,2020-03-26,2020-13
+Indiana,IN,,,,5.0,0.0,0.0,2020-04-01,2020-14
+Indiana,IN,,,20.0,10.0,0.0,0.0,2020-04-08,2020-15
+Indiana,IN,,,55.0,34.0,0.0,1.0,2020-04-15,2020-16
+Indiana,IN,,,101.0,238.0,0.0,3.0,2020-04-22,2020-17
+Indiana,IN,,,159.0,334.0,2.0,7.0,2020-04-29,2020-18
+Indiana,IN,889.0,844.0,234.0,500.0,2.0,13.0,2020-05-06,2020-19

@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Oklahoma,OK,,,0.0,0.0,0.0,0.0,2020-03-26,2020-13
+Oklahoma,OK,,8.0,0.0,0.0,0.0,0.0,2020-04-01,2020-14
+Oklahoma,OK,,,5.0,1.0,0.0,0.0,2020-04-09,2020-15
+Oklahoma,OK,,309.0,8.0,1.0,0.0,0.0,2020-04-15,2020-16
+Oklahoma,OK,,458.0,9.0,1.0,0.0,0.0,2020-04-21,2020-17
+Oklahoma,OK,,702.0,9.0,2.0,0.0,0.0,2020-04-28,2020-18
+Oklahoma,OK,,1034.0,9.0,2.0,0.0,0.0,2020-05-06,2020-19

@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+New Mexico,NM,0.0,1.0,0.0,0.0,0.0,0.0,2020-03-26,2020-13
+New Mexico,NM,,,0.0,0.0,0.0,0.0,2020-04-01,2020-14
+New Mexico,NM,6.0,4.0,0.0,0.0,0.0,0.0,2020-04-08,2020-15
+New Mexico,NM,7.0,5.0,0.0,0.0,0.0,0.0,2020-04-22,2020-17
+New Mexico,NM,7.0,5.0,0.0,0.0,0.0,0.0,2020-04-20,2020-17
+New Mexico,NM,32.0,8.0,1.0,0.0,0.0,0.0,2020-04-30,2020-18
+New Mexico,NM,64.0,14.0,4.0,0.0,0.0,0.0,2020-05-06,2020-19

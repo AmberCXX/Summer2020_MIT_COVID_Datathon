@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Mississippi,MS,,,,0.0,0.0,0.0,2020-03-26,2020-13
+Mississippi,MS,,,,,,,2020-04-08,2020-15
+Mississippi,MS,,,3.0,0.0,0.0,0.0,2020-04-06,2020-15
+Mississippi,MS,,20.0,3.0,4.0,,1.0,2020-04-17,2020-16
+Mississippi,MS,,9.0,3.0,1.0,,1.0,2020-04-13,2020-16
+Mississippi,MS,,27.0,4.0,4.0,,1.0,2020-04-27,2020-18
+Mississippi,MS,43.0,37.0,7.0,4.0,0.0,1.0,2020-05-05,2020-19

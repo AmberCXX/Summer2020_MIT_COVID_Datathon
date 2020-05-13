@@ -1,0 +1,8 @@
+name,abbreviation,staff_tests,prisoner_tests,total_staff_cases,total_prisoner_cases,total_staff_deaths,total_prisoner_deaths,date,week_num
+Washington,WA,,71.0,4.0,0.0,0.0,0.0,2020-03-26,2020-13
+Washington,WA,,131.0,8.0,1.0,0.0,0.0,2020-04-01,2020-14
+Washington,WA,,221.0,14.0,7.0,0.0,0.0,2020-04-08,2020-15
+Washington,WA,,257.0,14.0,11.0,0.0,0.0,2020-04-15,2020-16
+Washington,WA,,303.0,24.0,13.0,,,2020-04-22,2020-17
+Washington,WA,,323.0,32.0,18.0,0.0,0.0,2020-04-29,2020-18
+Washington,WA,,350.0,35.0,24.0,0.0,0.0,2020-05-06,2020-19
