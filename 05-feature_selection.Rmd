@@ -1,0 +1,106 @@
+---
+title: "MIT datathon"
+date: "4/23/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+policy <- read.csv("data/policy_data_2.csv")
+summary(policy)
+
+```
+
+```{r echo = FALSE, message=FALSE, warning = FALSE}
+library(GGally)
+lowerFn <- function(data, mapping, ...) {
+  p <- ggplot(data = data, mapping = mapping) +
+    geom_point(color = 'blue', alpha=0.1, size=1) +
+    geom_smooth(color = 'black', method='lm', size=1,...)
+  p
+}
+
+g <- ggpairs( 
+  data = policy,
+  lower = list(
+    continuous =  wrap(lowerFn) 
+  ),
+  upper = list(continuous = wrap("cor", size = 2))
+)
+g <- g + theme(
+  axis.text = element_text(size = 3),
+  axis.title = element_text(size = 3),
+  legend.background = element_rect(fill = "white"),
+  panel.grid.major = element_line(colour = NA),
+  panel.grid.minor = element_blank(),
+  panel.background = element_rect(fill = "grey95")
+)
+print(g, bottomHeightProportion = 0.9, leftWidthProportion = 0.9)
+```
+
+
+1. GLM
+
+```{r}
+
+library(tidyr)
+glm0 = glm(prison_perc~., family=gaussian, data = policy)
+summary(glm0)
+glm =glm(prison_perc~Suspended_Transfers+video_change+Increased_hygiene+Screening_employees, family=gaussian, data = policy)
+summary(glm)
+
+```
+
+Doing an analysis of deviance
+```{r}
+cc = colnames(policy)
+cc
+```
+
+```{r}
+l1 = glm =glm(prison_perc~Expedited_parole, family=gaussian, data = policy)
+summary(l1)
+
+l2 = glm(prison_perc~Expedited_parole+Lockdown_facilities, family=gaussian, data = policy)
+anova(l1,l2,test = 'Chi')
+
+```
+
+
+```{r}
+m1.fitted = fitted(glm)
+m1.cooks = cooks.distance(glm)
+library(arm)
+
+# Plot average residuals 
+binnedplot(m1.fitted, residuals(glm,type="response"),
+  xlab="Averaged fitted probabilities",
+  ylab="Averaged residuals",
+  pch=19, col.pts="red", cex.pts=1.5,
+  main="Fitted vs residual plot")
+abline(h=0,lty=2,col="green")
+
+# Cook's distances
+plot(m1.cooks, type="h", lwd=2,
+  xlab="Observation index",
+  ylab="Cook's distances",
+  main="Cook's distances")
+abline(h=1,lty=2,col="red")
+
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
